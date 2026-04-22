@@ -11,7 +11,7 @@
 
 ## What This Project Does
 
-This project trains a **1-layer, 4-head transformer** on a sequence reversal task, then provides an interactive HTML visualizer to inspect what each attention head has learned.
+This project trains a **1-layer, 4-head transformer** on a sequence reversal task, then provides an interactive HTML and Python visualizer to inspect what each attention head has learned.
 
 **Why reversal?** It's the simplest task where a transformer *must* learn structured, interpretable attention patterns. When it succeeds, you can literally see position-mirroring in the attention matrix — making it a perfect sandbox for mechanistic interpretability.
 
