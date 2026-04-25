@@ -2,7 +2,7 @@
 =============================================================
  MechInterp-Starter: Attention Head Visualizer
  A beginner-friendly Mechanistic Interpretability project
- Author: You!
+ Author: Md Yakub Hossan Khan
  Compatible with: PyTorch >= 2.0
 =============================================================
 """
